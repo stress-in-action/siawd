@@ -5,7 +5,7 @@
 ## About
 
 <img align="right"
-     src="https://raw.githubusercontent.com/HugoGit39/siawd/refs/heads/master/inst/app/www/sia_hexsticker.png"
+     src="https://raw.githubusercontent.com/stress-in-action/siawd/refs/heads/master/inst/app/www/sia_hexsticker.png"
      width="200"
      alt="SIA Hex Sticker">
 
@@ -132,7 +132,7 @@
 ```r
 # Install the SiA-WD {golem} app from GitHub
 install.packages("remotes")
-remotes::install_github("HugoGit39/siawd")
+remotes::install_github("stress-in-action/siawd")
 
 # Launch the app
 siawd::run_app()
